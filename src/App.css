@@ -4,7 +4,7 @@ body{
     font-family: "Poppins";
     font-weight: 400, 500, 600, 700;
     background-color: hsl(0, 100%, 74%);
-    background-image: url(bg-intro-desktop.png);    
+    background-image: url(/src/images/bg-intro-desktop.png);    
 }
 
 .container{
