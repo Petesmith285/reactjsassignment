@@ -11,7 +11,7 @@ body{
     display:grid ;
     margin-top: 300px;
     max-width: 1000px;
-    margin-left: 200px;
+    margin-left: 700px;
     /* justify-content: center; */
     
 
@@ -95,14 +95,14 @@ footer a{
 
     
     .container{
-        display:flex;
-        flex-direction: column;
-        align-items: center;
+        display:block;
+        /* flex-direction: column; */
+        /* align-items: center; */
         margin-top: 0;
-        margin-left: 10px;
+        margin-left: 0;
         text-align: center;
-    
-        
+        border: none;
+        justify-content: center;
 
 
         
@@ -118,18 +118,18 @@ footer a{
     }
 
     .try{
-        width: 90%;
+        width: 50%;
         padding: 10px;
-        /* margin-left: 10px; */
+        margin-left: 10px;
     }
 
     .info{
-        width: 90%;
+        width: 50%;
     }
 
     .text{
-        /* width: 90%; */
-        /* margin-left: 10px; */
+        width: 50%;
+        margin-left: 10px;
 
     }
 
